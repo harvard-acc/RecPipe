@@ -1,0 +1,7 @@
+{
+  "arch_sparse_mf_feature_size" : 64,
+  "arch_sparse_feature_size" : 32,
+  "arch_mlp_bot"             : "64-2048-512-256-128-64-1",
+  "arch_mlp_top"             : "257-1",
+  "load_model" : "/group/vlsiarch/jpombra/new_model_real.t7"
+}

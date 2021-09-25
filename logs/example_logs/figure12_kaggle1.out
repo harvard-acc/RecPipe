@@ -1,0 +1,169 @@
+Mon Jul 26 05:04:41 UTC 2021
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  26.0723991394
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 22.448619842529297)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 8.56850024921894)
+('****Total tail time (s): ', 16.36118445396423)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 22.52861499786377)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 7.260085038542748)
+('****Total tail time (s): ', 13.805434191226958)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 22.5123291015625)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 5.879008080267906)
+('****Total tail time (s): ', 11.205912494659424)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 22.717087030410767)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 3.306881689238548)
+('****Total tail time (s): ', 6.31670777797699)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 22.74797010421753)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.9645961619377136)
+('****Total tail time (s): ', 1.658525288105011)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 25.92609214782715)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.006515165495872497)
+('****Total tail time (s): ', 0.013946259021759031)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.77506399154663)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.003595403242111206)
+('****Total tail time (s): ', 0.006958246231079098)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.59984302520752)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.0031766749143600464)
+('****Total tail time (s): ', 0.005677926540374742)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.77294993400574)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.002733656668663025)
+('****Total tail time (s): ', 0.0045549988746643065)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.46427297592163)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.002488369083404541)
+('****Total tail time (s): ', 0.003685355186462397)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 56.6848650135
+Mon Jul 26 05:12:28 UTC 2021
+('****Total experiment time (s): ', 102.02168798446655)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.002431906008720398)
+('****Total tail time (s): ', 0.002502238750457763)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+Mon Jul 26 05:12:28 UTC 2021

@@ -1,0 +1,11 @@
+{
+  "num_queries"            : 2000,
+  "nepochs"                : 1,
+  "max_cpu_engines"        : 32,
+  "num_stages"             : 1,
+  "arrival_rates"          : [1, 1.5, 2, 3, 4, 5, 6, 7.5, 8, 10, 12],
+  "model_configs"          : ["configs/model_configs/movie1m_small.json,configs/model_configs/movie1m_large.json"],
+  "num_threads_per_engine" : [1, 1],
+  "use_gpus"               : ["False,True", "True,False", "False,False"],
+  "stage_batch_sizes"      : ["1000,400"]
+}

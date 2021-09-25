@@ -1,0 +1,11 @@
+{
+  "num_queries"            : 32,
+  "nepochs"                : 1,
+  "max_cpu_engines"        : 1,
+  "num_stages"             : 1,
+  "arrival_rates"          : [2],
+  "model_configs"          : ["configs/model_configs/dim_4_0.json"],
+  "num_threads_per_engine" : [1],
+  "use_gpus"               : ["False"],
+  "stage_batch_sizes"      : ["4096"]
+}

@@ -1,0 +1,7 @@
+{
+  "arch_sparse_mf_feature_size" : 16,
+  "arch_sparse_feature_size" : 128,
+  "arch_mlp_bot"             : "800-512-256-128-64-32-1",
+  "arch_mlp_top"             : "17-1",
+  "load_model" : "/group/vlsiarch/jpombra/medium_1m_model_real.t7"
+}

@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : crossbar4x4
+Version: P-2019.03-SP3
+Date   : Wed Apr 14 15:17:44 2021
+****************************************
+
+Library(s) Used:
+
+    sc10p5mcpp84_12lp_base_lvt_c16_tt_nominal_max_0p70v_25c (File: /group/guyeon/cktcad/kits/arm/gf12/arm/gf/12lp/sc10p5mcpp84_base_lvt_c16/r0p0/db-ccs-tn/sc10p5mcpp84_12lp_base_lvt_c16_tt_nominal_max_0p70v_25c.db_ccs_tn)
+
+Number of ports:                          520
+Number of nets:                          1352
+Number of cells:                         1088
+Number of combinational cells:           1088
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                        304
+Number of references:                       5
+
+Combinational area:                287.659001
+Buf/Inv area:                       68.189186
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                   287.659001
+Total area:                 undefined
+1

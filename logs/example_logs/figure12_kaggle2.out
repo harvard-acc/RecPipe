@@ -1,0 +1,3935 @@
+Mon Jul 26 05:12:28 UTC 2021
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 0/0
+Launched inference engine 0/1
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  11.3618440628
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 5.475804090499878)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.004652255225181579)
+('****Total tail time (s): ', 0.011396741867065418)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.001921892166138)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.002562428045272827)
+('****Total tail time (s): ', 0.004293024539947509)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.620121002197266)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.002941868758201599)
+('****Total tail time (s): ', 0.003953123092651365)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 15.920780181884766)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.0023558335304260255)
+('****Total tail time (s): ', 0.003780841827392578)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.023863792419434)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.002251580595970154)
+('****Total tail time (s): ', 0.0037351131439208977)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 25.934261083602905)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.002095972204208374)
+('****Total tail time (s): ', 0.0028798580169677734)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.757646083831787)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.0020119829416275024)
+('****Total tail time (s): ', 0.002853882312774658)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.582887172698975)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.0019398664474487306)
+('****Total tail time (s): ', 0.002850055694580078)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.75991106033325)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.0018727106094360351)
+('****Total tail time (s): ', 0.00280313491821289)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.465587854385376)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.0018579393863677979)
+('****Total tail time (s): ', 0.0019099712371826172)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 9.04487417853
+Accel 0 util: 8.9613957992
+Accel 1 util: 13.1171802654
+Accel 1 util: 13.1147912665
+Mon Jul 26 05:19:08 UTC 2021
+('****Total experiment time (s): ', 102.01757287979126)
+('****Infer mean time (s): ', 0.001394389622154236)
+('****Infer tail time (s): ', 0.001394389622154236)
+('****Total mean time (s): ', 0.001969012427330017)
+('****Total tail time (s): ', 0.0020580291748046875)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [2, 2])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 1/2
+Launched inference engine 1/3
+Launched inference engine 1/4
+Launched inference engine 1/5
+Launched inference engine 1/6
+Launched inference engine 1/7
+Launched inference engine 0/0
+Launched inference engine 0/1
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  12.2308380604
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 5.555685043334961)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.004391058588027954)
+('****Total tail time (s): ', 0.006330060958862304)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.051538944244385)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.0041906755685806275)
+('****Total tail time (s): ', 0.005871152877807616)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.67814588546753)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.0038448780059814453)
+('****Total tail time (s): ', 0.005337953567504883)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 16.03225016593933)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.003918139910697937)
+('****Total tail time (s): ', 0.005446910858154297)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.26207208633423)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.0037811938762664795)
+('****Total tail time (s): ', 0.005341100692749023)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 26.093816995620728)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.003689189577102661)
+('****Total tail time (s): ', 0.004538059234619141)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 32.103384017944336)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.004500736021995544)
+('****Total tail time (s): ', 0.0045318603515625)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.930773973464966)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.0035612786531448366)
+('****Total tail time (s): ', 0.004468929767608642)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.92094302177429)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.0035099761724472047)
+('****Total tail time (s): ', 0.004411935806274414)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.730507135391235)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.003462434530258179)
+('****Total tail time (s): ', 0.0035958766937255852)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 1 util: 8.76356907953
+Accel 1 util: 8.76829514235
+Accel 1 util: 8.75997127735
+Accel 1 util: 8.76908116086
+Accel 1 util: 8.7713425321
+Accel 1 util: 8.76084170105
+Accel 0 util: 8.9809958839
+Accel 1 util: 8.76378491372
+Accel 1 util: 8.76773715713
+Accel 0 util: 8.96116886912
+Mon Jul 26 05:25:52 UTC 2021
+('****Total experiment time (s): ', 101.8103768825531)
+('****Infer mean time (s): ', 0.0028912188240356454)
+('****Infer tail time (s): ', 0.0028912188240356445)
+('****Total mean time (s): ', 0.003449174618721008)
+('****Total tail time (s): ', 0.003596067428588867)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [2, 8])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 1/2
+Launched inference engine 1/3
+Launched inference engine 1/4
+Launched inference engine 1/5
+Launched inference engine 1/6
+Launched inference engine 1/7
+Launched inference engine 1/8
+Launched inference engine 1/9
+Launched inference engine 1/10
+Launched inference engine 1/11
+Launched inference engine 1/12
+Launched inference engine 1/13
+Launched inference engine 1/14
+Launched inference engine 1/15
+Launched inference engine 1/16
+Launched inference engine 1/17
+Launched inference engine 1/18
+Launched inference engine 1/19
+Launched inference engine 1/20
+Launched inference engine 1/21
+Launched inference engine 1/22
+Launched inference engine 1/23
+Launched inference engine 1/24
+Launched inference engine 1/25
+Launched inference engine 1/26
+Launched inference engine 1/27
+Launched inference engine 1/28
+Launched inference engine 1/29
+Launched inference engine 1/30
+Launched inference engine 1/31
+Launched inference engine 0/0
+Launched inference engine 0/1
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  11.4772400856
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 5.992988109588623)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.28524701483249665)
+('****Total tail time (s): ', 0.7697467803955078)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.070235967636108)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.021243508934974672)
+('****Total tail time (s): ', 0.024142980575561523)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.827700853347778)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.020883946061134338)
+('****Total tail time (s): ', 0.02305006980895996)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 16.11849594116211)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.020557313203811645)
+('****Total tail time (s): ', 0.0221138596534729)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.066359043121338)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.020350983929634095)
+('****Total tail time (s): ', 0.021525156497955316)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 25.97817301750183)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.02027581014633179)
+('****Total tail time (s): ', 0.021111977100372315)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.833573818206787)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.020185639715194704)
+('****Total tail time (s): ', 0.021069049835205078)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.62449407577515)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.02010256907939911)
+('****Total tail time (s): ', 0.02102280855178833)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.809844970703125)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.020056454610824587)
+('****Total tail time (s): ', 0.02097606658935547)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.5121750831604)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.019996029329299926)
+('****Total tail time (s): ', 0.020097112655639647)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 1 util: 16.3508178334
+Accel 1 util: 16.3417466217
+Accel 1 util: 16.3531334468
+Accel 1 util: 16.3759289872
+Accel 0 util: 8.93988378928
+Accel 1 util: 16.4197773693
+Accel 1 util: 16.3455925764
+Accel 1 util: 16.3891244555
+Accel 1 util: 16.363068793
+Accel 0 util: 9.02297072225
+Accel 1 util: 16.4144759867
+Accel 1 util: 16.3798787522
+Accel 1 util: 16.4203350116
+Accel 1 util: 16.4162421575
+Accel 1 util: 16.4474090922
+Accel 1 util: 16.4067522706
+Accel 1 util: 16.4084273994
+Accel 1 util: 16.4218658685
+Accel 1 util: 16.3779482653
+Accel 1 util: 16.4464111677
+Accel 1 util: 16.3726816522
+Accel 1 util: 16.4168091535
+Accel 1 util: 16.4219281596
+Accel 1 util: 16.4179499314
+Accel 1 util: 16.364894436
+Accel 1 util: 16.3926700061
+Accel 1 util: 16.4358771637
+Accel 1 util: 16.4243668917
+Accel 1 util: 16.3744808469
+Accel 1 util: 16.3633712417
+Accel 1 util: 16.3823618365
+Accel 1 util: 16.3787125438
+Accel 1 util: 16.3224512426
+Accel 1 util: 16.4962974478
+Mon Jul 26 05:32:36 UTC 2021
+('****Total experiment time (s): ', 101.94608497619629)
+('****Infer mean time (s): ', 0.019504274861663815)
+('****Infer tail time (s): ', 0.01950427486166382)
+('****Total mean time (s): ', 0.0200854017496109)
+('****Total tail time (s): ', 0.02020789384841919)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [2, 32])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  12.8391859531
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 5.549210071563721)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.009908128714561463)
+('****Total tail time (s): ', 0.05059559345245354)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.009448051452637)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.0036713346004486084)
+('****Total tail time (s): ', 0.005806064605712889)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.749636888504028)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.0035531545639038084)
+('****Total tail time (s): ', 0.0055521011352539056)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 15.863969087600708)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.0028772128105163572)
+('****Total tail time (s): ', 0.004319000244140624)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 20.976083040237427)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.0029839521169662477)
+('****Total tail time (s): ', 0.004421961307525635)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 25.918927907943726)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.0027169834852218628)
+('****Total tail time (s): ', 0.003532886505126953)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.693777799606323)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.0026349586486816407)
+('****Total tail time (s): ', 0.0035049915313720703)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.55345797538757)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.0025780012607574464)
+('****Total tail time (s): ', 0.00347900390625)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.706992864608765)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.002667368221282959)
+('****Total tail time (s): ', 0.003470218181610107)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.49837803840637)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.002485819387435913)
+('****Total tail time (s): ', 0.0026278972625732415)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 4.43100740805
+Accel 0 util: 4.42684804952
+Accel 0 util: 4.42653066027
+Accel 0 util: 4.42880555913
+Accel 1 util: 13.1442448895
+Accel 0 util: 4.42765886189
+Accel 0 util: 4.42701127423
+Accel 0 util: 4.42976903473
+Accel 0 util: 4.42730308369
+Accel 1 util: 13.1479096703
+Mon Jul 26 05:39:18 UTC 2021
+('****Total experiment time (s): ', 101.9700059890747)
+('****Infer mean time (s): ', 0.002000305286735535)
+('****Infer tail time (s): ', 0.0020003052867355346)
+('****Total mean time (s): ', 0.002576369833946228)
+('****Total tail time (s): ', 0.002685070037841797)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [8, 2])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 1/2
+Launched inference engine 1/3
+Launched inference engine 1/4
+Launched inference engine 1/5
+Launched inference engine 1/6
+Launched inference engine 1/7
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  13.479172945
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 5.531897783279419)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.00481222414970398)
+('****Total tail time (s): ', 0.006871044635772704)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.115230083465576)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004541317796707153)
+('****Total tail time (s): ', 0.0061719417572021484)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.653861999511719)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004322616744041443)
+('****Total tail time (s): ', 0.005373191833496091)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 15.90204119682312)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004298067212104797)
+('****Total tail time (s): ', 0.005170834064483642)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.00792908668518)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004333246803283691)
+('****Total tail time (s): ', 0.005854856967926025)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 25.97777009010315)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004247921800613404)
+('****Total tail time (s): ', 0.005103838443756103)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.55917000770569)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004188112282752991)
+('****Total tail time (s): ', 0.0050830841064453125)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.56575012207031)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004124844980239868)
+('****Total tail time (s): ', 0.0050411224365234375)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.76010298728943)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004091230964660644)
+('****Total tail time (s): ', 0.005012989044189453)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.4778618812561)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.0040501678228378295)
+('****Total tail time (s): ', 0.004118919372558594)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 4.42528836607
+Accel 0 util: 4.44527419896
+Accel 0 util: 4.42504777162
+Accel 0 util: 4.43319161095
+Accel 0 util: 4.42543700331
+Accel 0 util: 4.42418780071
+Accel 1 util: 8.83342131479
+Accel 0 util: 4.42268946812
+Accel 1 util: 8.84171873278
+Accel 0 util: 4.42340828072
+Accel 1 util: 8.8255945949
+Accel 1 util: 8.8329073116
+Accel 1 util: 8.83746566154
+Accel 1 util: 8.83917251283
+Accel 1 util: 8.82419790979
+Accel 1 util: 8.83500999496
+Mon Jul 26 05:46:01 UTC 2021
+('****Total experiment time (s): ', 101.9886531829834)
+('****Infer mean time (s): ', 0.003497134488616944)
+('****Infer tail time (s): ', 0.0034971344886169436)
+('****Total mean time (s): ', 0.004135912346839905)
+('****Total tail time (s): ', 0.004231929779052734)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [8, 8])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 1/2
+Launched inference engine 1/3
+Launched inference engine 1/4
+Launched inference engine 1/5
+Launched inference engine 1/6
+Launched inference engine 1/7
+Launched inference engine 1/8
+Launched inference engine 1/9
+Launched inference engine 1/10
+Launched inference engine 1/11
+Launched inference engine 1/12
+Launched inference engine 1/13
+Launched inference engine 1/14
+Launched inference engine 1/15
+Launched inference engine 1/16
+Launched inference engine 1/17
+Launched inference engine 1/18
+Launched inference engine 1/19
+Launched inference engine 1/20
+Launched inference engine 1/21
+Launched inference engine 1/22
+Launched inference engine 1/23
+Launched inference engine 1/24
+Launched inference engine 1/25
+Launched inference engine 1/26
+Launched inference engine 1/27
+Launched inference engine 1/28
+Launched inference engine 1/29
+Launched inference engine 1/30
+Launched inference engine 1/31
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  15.0285160542
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 5.992455959320068)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.32174295222759247)
+('****Total tail time (s): ', 0.9009665250778198)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.163262128829956)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.02136109230518341)
+('****Total tail time (s): ', 0.02408715486526489)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.759956121444702)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.02109707477092743)
+('****Total tail time (s): ', 0.022690784931182862)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 16.14246416091919)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.021113459062576292)
+('****Total tail time (s): ', 0.022719180583953856)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.340736865997314)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.021039501452445986)
+('****Total tail time (s): ', 0.022661924362182617)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 26.00457000732422)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.020842490434646605)
+('****Total tail time (s): ', 0.021687078475952144)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.774250030517578)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.02076665008068085)
+('****Total tail time (s): ', 0.021647930145263672)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.62637901306152)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.020696570301055907)
+('****Total tail time (s): ', 0.021613168716430663)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.84516501426697)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.020676774668693543)
+('****Total tail time (s): ', 0.02158498764038086)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.53703808784485)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.020635466814041138)
+('****Total tail time (s): ', 0.02080610990524292)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 4.4104196255
+Accel 0 util: 4.40891795407
+Accel 0 util: 4.40634371631
+Accel 0 util: 4.40661937908
+Accel 0 util: 4.40582025004
+Accel 0 util: 4.40925183647
+Accel 0 util: 4.40548542749
+Accel 0 util: 4.41233987284
+Accel 1 util: 16.3906387082
+Accel 1 util: 16.457549198
+Accel 1 util: 16.4157224016
+Accel 1 util: 16.3759820964
+Accel 1 util: 16.3594605483
+Accel 1 util: 16.3755294982
+Accel 1 util: 16.3555082748
+Accel 1 util: 16.359328079
+Accel 1 util: 16.3390613259
+Accel 1 util: 16.379224891
+Accel 1 util: 16.3805409169
+Accel 1 util: 16.4004688067
+Accel 1 util: 16.3753492919
+Accel 1 util: 16.3752844611
+Accel 1 util: 16.4116628744
+Accel 1 util: 16.3704343818
+Accel 1 util: 16.3353082549
+Accel 1 util: 16.4020953447
+Accel 1 util: 16.355234091
+Accel 1 util: 16.324508411
+Accel 1 util: 16.3294587138
+Accel 1 util: 16.431389111
+Accel 1 util: 16.3420589434
+Accel 1 util: 16.3756614405
+Accel 1 util: 16.3809453118
+Accel 1 util: 16.394533387
+Accel 1 util: 16.4020319112
+Accel 1 util: 16.3446793857
+Accel 1 util: 16.3708967554
+Accel 1 util: 16.4007079511
+Accel 1 util: 16.3985227925
+Accel 1 util: 16.380841174
+Mon Jul 26 05:52:52 UTC 2021
+('****Total experiment time (s): ', 102.03429007530212)
+('****Infer mean time (s): ', 0.020110190526245124)
+('****Infer tail time (s): ', 0.020110190526245117)
+('****Total mean time (s): ', 0.02072986662387848)
+('****Total tail time (s): ', 0.020825862884521484)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [8, 32])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+Launched inference engine 0/16
+Launched inference engine 0/17
+Launched inference engine 0/18
+Launched inference engine 0/19
+Launched inference engine 0/20
+Launched inference engine 0/21
+Launched inference engine 0/22
+Launched inference engine 0/23
+Launched inference engine 0/24
+Launched inference engine 0/25
+Launched inference engine 0/26
+Launched inference engine 0/27
+Launched inference engine 0/28
+Launched inference engine 0/29
+Launched inference engine 0/30
+Launched inference engine 0/31
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  14.5002632141
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 5.476891994476318)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.01272775263786316)
+('****Total tail time (s): ', 0.019657540321350076)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.010674953460693)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.010473168396949768)
+('****Total tail time (s): ', 0.012400114536285397)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.64962100982666)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.010607229900360107)
+('****Total tail time (s): ', 0.01158318519592285)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 15.886918783187866)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.01001120810508728)
+('****Total tail time (s): ', 0.01149611473083496)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.04594111442566)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.009980697107315063)
+('****Total tail time (s): ', 0.011481046676635742)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 25.867257118225098)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.009865257263183594)
+('****Total tail time (s): ', 0.010702860355377198)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.356778860092163)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.009804939913749694)
+('****Total tail time (s): ', 0.010644912719726562)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.59665107727051)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.0096972501039505)
+('****Total tail time (s): ', 0.01060795783996582)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.758477210998535)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.009654336476325989)
+('****Total tail time (s): ', 0.01057605743408203)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.460344076156616)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.009577191090583801)
+('****Total tail time (s): ', 0.0097198486328125)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 7.17519126747
+Accel 0 util: 7.15460538712
+Accel 0 util: 7.15626381039
+Accel 0 util: 7.1571488666
+Accel 0 util: 7.16984776089
+Accel 0 util: 7.20066499878
+Accel 0 util: 7.21022673983
+Accel 0 util: 7.17759221033
+Accel 0 util: 7.23691827648
+Accel 0 util: 7.18459392408
+Accel 0 util: 7.20712411797
+Accel 0 util: 7.18536295138
+Accel 0 util: 7.10130275547
+Accel 0 util: 7.14656114447
+Accel 0 util: 7.1539392969
+Accel 1 util: 13.1917530106
+Accel 0 util: 7.15528422923
+Accel 0 util: 7.08843401989
+Accel 0 util: 7.14876483377
+Accel 0 util: 7.17981171248
+Accel 0 util: 7.13163227713
+Accel 0 util: 7.15231500512
+Accel 0 util: 7.14748824533
+Accel 0 util: 7.19990218398
+Accel 0 util: 7.1842898536
+Accel 0 util: 7.17067440211
+Accel 0 util: 7.13695178084
+Accel 0 util: 7.17896657521
+Accel 0 util: 7.1274310673
+Accel 0 util: 7.17893318406
+Accel 0 util: 7.14453194086
+Accel 0 util: 7.15119168264
+Accel 0 util: 7.16567020978
+Accel 1 util: 13.1992419271
+Mon Jul 26 05:59:37 UTC 2021
+('****Total experiment time (s): ', 101.96466398239136)
+('****Infer mean time (s): ', 0.009031866578361511)
+('****Infer tail time (s): ', 0.009031866578361511)
+('****Total mean time (s): ', 0.009681327748298645)
+('****Total tail time (s): ', 0.009773015975952148)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [32, 2])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 1/2
+Launched inference engine 1/3
+Launched inference engine 1/4
+Launched inference engine 1/5
+Launched inference engine 1/6
+Launched inference engine 1/7
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+Launched inference engine 0/16
+Launched inference engine 0/17
+Launched inference engine 0/18
+Launched inference engine 0/19
+Launched inference engine 0/20
+Launched inference engine 0/21
+Launched inference engine 0/22
+Launched inference engine 0/23
+Launched inference engine 0/24
+Launched inference engine 0/25
+Launched inference engine 0/26
+Launched inference engine 0/27
+Launched inference engine 0/28
+Launched inference engine 0/29
+Launched inference engine 0/30
+Launched inference engine 0/31
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  12.9450500011
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 5.636000871658325)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011829536366462707)
+('****Total tail time (s): ', 0.013814175128936765)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.061698913574219)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011529637289047242)
+('****Total tail time (s): ', 0.01312398910522461)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.77869701385498)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011645540189743042)
+('****Total tail time (s): ', 0.013233280181884764)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 16.11281704902649)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011561358833312989)
+('****Total tail time (s): ', 0.01318502426147461)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.321444988250732)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011487778759002686)
+('****Total tail time (s): ', 0.013113069534301757)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 26.31857705116272)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011408262228965758)
+('****Total tail time (s): ', 0.012272119522094727)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.70480990409851)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011269955372810364)
+('****Total tail time (s): ', 0.012179136276245117)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.4311740398407)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011224686932563782)
+('****Total tail time (s): ', 0.012154102325439453)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.78888511657715)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.012465810871124267)
+('****Total tail time (s): ', 0.012142217159271239)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.496906995773315)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011151277256011963)
+('****Total tail time (s): ', 0.011293172836303711)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 7.07386534571
+Accel 0 util: 7.12166661546
+Accel 0 util: 7.09568814073
+Accel 0 util: 7.12532874966
+Accel 0 util: 7.15916407747
+Accel 0 util: 7.11024555768
+Accel 0 util: 7.13665184281
+Accel 0 util: 7.1267426909
+Accel 0 util: 7.1410814237
+Accel 0 util: 7.16324589559
+Accel 0 util: 7.15168401061
+Accel 0 util: 7.17044552914
+Accel 1 util: 8.80815928519
+Accel 1 util: 8.80449365547
+Accel 1 util: 8.80592005064
+Accel 1 util: 8.80853753266
+Accel 1 util: 8.81214400464
+Accel 1 util: 8.80307165638
+Accel 1 util: 8.80016066253
+Accel 1 util: 8.8117383069
+Accel 0 util: 7.1209907094
+Accel 0 util: 7.1552835515
+Accel 0 util: 7.13095822002
+Accel 0 util: 7.1238150541
+Accel 0 util: 7.11592822069
+Accel 0 util: 7.15063512001
+Accel 0 util: 7.11911370237
+Accel 0 util: 7.10154128508
+Accel 0 util: 7.08300466865
+Accel 0 util: 7.12077978023
+Accel 0 util: 7.09750837191
+Accel 0 util: 7.1598991819
+Accel 0 util: 7.16761865391
+Accel 0 util: 7.15540907472
+Accel 0 util: 7.11541430989
+Accel 0 util: 7.16870978323
+Accel 0 util: 7.14232532568
+Accel 0 util: 7.19416783218
+Accel 0 util: 7.17549152062
+Accel 0 util: 7.13082482961
+Mon Jul 26 06:06:23 UTC 2021
+('****Total experiment time (s): ', 102.01037001609802)
+('****Infer mean time (s): ', 0.010528695780242922)
+('****Infer tail time (s): ', 0.01052869578024292)
+('****Total mean time (s): ', 0.011231977200508118)
+('****Total tail time (s): ', 0.011327981948852539)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [32, 8])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 1/0
+Launched inference engine 1/1
+Launched inference engine 1/2
+Launched inference engine 1/3
+Launched inference engine 1/4
+Launched inference engine 1/5
+Launched inference engine 1/6
+Launched inference engine 1/7
+Launched inference engine 1/8
+Launched inference engine 1/9
+Launched inference engine 1/10
+Launched inference engine 1/11
+Launched inference engine 1/12
+Launched inference engine 1/13
+Launched inference engine 1/14
+Launched inference engine 1/15
+Launched inference engine 1/16
+Launched inference engine 1/17
+Launched inference engine 1/18
+Launched inference engine 1/19
+Launched inference engine 1/20
+Launched inference engine 1/21
+Launched inference engine 1/22
+Launched inference engine 1/23
+Launched inference engine 1/24
+Launched inference engine 1/25
+Launched inference engine 1/26
+Launched inference engine 1/27
+Launched inference engine 1/28
+Launched inference engine 1/29
+Launched inference engine 1/30
+Launched inference engine 1/31
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+Launched inference engine 0/16
+Launched inference engine 0/17
+Launched inference engine 0/18
+Launched inference engine 0/19
+Launched inference engine 0/20
+Launched inference engine 0/21
+Launched inference engine 0/22
+Launched inference engine 0/23
+Launched inference engine 0/24
+Launched inference engine 0/25
+Launched inference engine 0/26
+Launched inference engine 0/27
+Launched inference engine 0/28
+Launched inference engine 0/29
+Launched inference engine 0/30
+Launched inference engine 0/31
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  13.4391930103
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 6.014633893966675)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.3325033634662628)
+('****Total tail time (s): ', 0.8938020825386042)
+('****Arrival rate: ', 0.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 8.030042171478271)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.028381976866722107)
+('****Total tail time (s): ', 0.030869257450103754)
+('****Arrival rate: ', 0.75)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.731309175491333)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.028057642555236816)
+('****Total tail time (s): ', 0.029608964920043945)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 15.898869037628174)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.028040061831474304)
+('****Total tail time (s): ', 0.02923963069915769)
+('****Arrival rate: ', 1.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.082181215286255)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.028075022625923155)
+('****Total tail time (s): ', 0.02956650257110595)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 26.02818512916565)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.027977545619010925)
+('****Total tail time (s): ', 0.028842246532440184)
+('****Arrival rate: ', 2.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 31.772934913635254)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.02788865599632263)
+('****Total tail time (s): ', 0.028805065155029296)
+('****Arrival rate: ', 3)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 36.68640494346619)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.027843577027320862)
+('****Total tail time (s): ', 0.028776884078979492)
+('****Arrival rate: ', 3.5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.49071002006531)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.027804517102241515)
+('****Total tail time (s): ', 0.02872610092163086)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.52830410003662)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.02776285300254822)
+('****Total tail time (s): ', 0.027926921844482422)
+('****Arrival rate: ', 5)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 7.17276249058
+Accel 0 util: 7.1645073506
+Accel 0 util: 7.09554560643
+Accel 0 util: 7.17248029862
+Accel 0 util: 7.16705438049
+Accel 0 util: 7.13374977467
+Accel 0 util: 7.12069814168
+Accel 0 util: 7.09688397945
+Accel 0 util: 7.20862829667
+Accel 0 util: 7.1550843593
+Accel 0 util: 7.13334925014
+Accel 0 util: 7.14785051181
+Accel 1 util: 16.4484715094
+Accel 0 util: 7.16079721781
+Accel 0 util: 7.13388652013
+Accel 1 util: 16.4871299387
+Accel 0 util: 7.16033910648
+Accel 0 util: 7.17834232064
+Accel 1 util: 16.4888939829
+Accel 0 util: 7.09792919984
+Accel 0 util: 7.10269745892
+Accel 0 util: 7.1956818325
+Accel 1 util: 16.410225318
+Accel 1 util: 16.4484388098
+Accel 0 util: 7.18254756914
+Accel 1 util: 16.4215009682
+Accel 1 util: 16.4376731988
+Accel 0 util: 7.16373356481
+Accel 1 util: 16.4205975625
+Accel 0 util: 7.17862634362
+Accel 1 util: 16.4481405756
+Accel 1 util: 16.4471259069
+Accel 0 util: 7.14485558708
+Accel 0 util: 7.20036158541
+Accel 1 util: 16.4583474653
+Accel 0 util: 7.17859986952
+Accel 0 util: 7.20297365936
+Accel 0 util: 7.11511741074
+Accel 1 util: 16.4630198649
+Accel 0 util: 7.20417271825
+Accel 1 util: 16.4564110367
+Accel 0 util: 7.15312087957
+Accel 0 util: 7.21079514647
+Accel 1 util: 16.4838120591
+Accel 1 util: 16.5341963725
+Accel 1 util: 16.4370989764
+Accel 1 util: 16.4068306588
+Accel 1 util: 16.5148261128
+Accel 0 util: 7.1504778134
+Accel 1 util: 16.4104529097
+Accel 1 util: 16.5163095509
+Accel 1 util: 16.4265570883
+Accel 1 util: 16.5044572173
+Accel 1 util: 16.4888381418
+Accel 1 util: 16.4318159481
+Accel 0 util: 7.11166580347
+Accel 1 util: 16.5148349745
+Accel 1 util: 16.53580015
+Accel 1 util: 16.4573660871
+Accel 1 util: 16.4636571232
+Accel 1 util: 16.5142925218
+Accel 1 util: 16.4517531409
+Accel 1 util: 16.4674946212
+Accel 1 util: 16.4948188272
+Mon Jul 26 06:13:15 UTC 2021
+('****Total experiment time (s): ', 101.13757395744324)
+('****Infer mean time (s): ', 0.02714175181787109)
+('****Infer tail time (s): ', 0.02714175181787109)
+('****Total mean time (s): ', 0.027707946538925173)
+('****Total tail time (s): ', 0.02789783477783203)
+('****Arrival rate: ', 10)
+('****model config: ', u'configs/model_configs/dim_4_0.json,configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096, 512])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json', 'configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [32, 32])
+===================================================
+Mon Jul 26 06:13:15 UTC 2021

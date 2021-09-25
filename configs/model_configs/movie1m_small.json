@@ -1,0 +1,9 @@
+{
+  "arch_sparse_mf_feature_size" : 128,
+  "arch_sparse_feature_size" : 32,
+  "arch_mlp_bot"             : "64-32-1",
+  "arch_mlp_top"             : "129-1",
+  "load_model" : "/group/vlsiarch/ugupta/git/MSR/Neumf_Inference/models/movielens1604682935/model_real.t7"
+}
+
+

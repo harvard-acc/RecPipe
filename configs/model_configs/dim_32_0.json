@@ -1,0 +1,6 @@
+{
+  "arch_sparse_feature_size" : 32,
+  "arch_mlp_bot"             : "13-512-256-128-64-32",
+  "arch_mlp_top"             : "96-1",
+  "load_model"               : "/data/rec/recpipe_artifact/r2_model_51_32.pth"
+}

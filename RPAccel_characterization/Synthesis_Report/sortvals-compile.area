@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : sortvals
+Version: P-2019.03-SP3
+Date   : Sun Apr  4 22:30:22 2021
+****************************************
+
+Library(s) Used:
+
+    sc10p5mcpp84_12lp_base_lvt_c16_tt_nominal_max_0p70v_25c (File: /group/guyeon/cktcad/kits/arm/gf12/arm/gf/12lp/sc10p5mcpp84_base_lvt_c16/r0p0/db-ccs-tn/sc10p5mcpp84_12lp_base_lvt_c16_tt_nominal_max_0p70v_25c.db_ccs_tn)
+
+Number of ports:                          161
+Number of nets:                          1041
+Number of cells:                          916
+Number of combinational cells:            605
+Number of sequential cells:               291
+Number of macros/black boxes:               0
+Number of buf/inv:                         93
+Number of references:                      56
+
+Combinational area:                170.698749
+Buf/Inv area:                       18.797184
+Noncombinational area:             282.635138
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                   453.333886
+Total area:                 undefined
+1

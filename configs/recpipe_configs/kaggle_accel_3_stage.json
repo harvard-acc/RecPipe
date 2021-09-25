@@ -1,0 +1,12 @@
+{
+  "num_queries"            : 10000,
+  "nepochs"                : 1,
+  "max_cpu_engines"        : 1,
+  "num_stages"             : 3,
+  "arrival_rates"          : [0.5, 0.75, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 10],
+  "model_configs"          : ["configs/model_configs/dim_4_0.json,configs/model_configs/dim_16.json,configs/model_configs/dim_32_0.json"],
+  "num_threads_per_engine" : [1, 1, 1],
+  "use_gpus"               : ["False"],
+  "accel_configs"          : "all",
+  "stage_batch_sizes"      : ["4096,512,128"]
+}

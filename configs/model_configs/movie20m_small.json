@@ -1,0 +1,8 @@
+{
+  "arch_sparse_mf_feature_size" : 1,
+  "arch_sparse_feature_size" : 16,
+  "arch_mlp_bot"             : "32-1",
+  "arch_mlp_top"             : "2-1",
+  "load_model" : "/group/vlsiarch/jpombra/20m_models/small_model.t7"
+}
+

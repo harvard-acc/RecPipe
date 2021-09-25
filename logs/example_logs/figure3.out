@@ -1,0 +1,632 @@
+Sun Jul 25 05:24:51 UTC 2021
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_1_4.pth
+****Total experiment time (s):  52.2544751167
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.020790246963500975, 0.021513938903808594)
+('****Total time: ', 24.11560348844528, 45.938275992870324)
+('****Preprocess time: ', 0.004696403741836548, 0.004823923110961914)
+('****Data time: ', 0.0003459452390670776, 0.0003600120544433594)
+('****Fetch time: ', 3.1712055206298826e-05, 3.409385681152344e-05)
+('****Sort time: ', 0.001324764370918274, 0.0013570785522460938)
+****Stage 0 average time 0.0271890723705
+('****model config: ', u'configs/model_configs/dim_4_0.json')
+('****batch_size: ', [4096])
+****DCGs @ 4: 0.994645091603
+****DCGs @ 8: 0.979928179265
+****DCGs @ 16: 0.96073564959
+****DCGs @ 32: 0.935332419372
+****DCGs @ 64: 0.912730452286
+****Error : 0.185484741211
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_1_4.pth
+****Total experiment time (s):  25.5548820496
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.010087427854537964, 0.01056513786315918)
+('****Total time: ', 11.210528633832931, 21.344137084484096)
+('****Preprocess time: ', 0.002246038198471069, 0.0023479461669921875)
+('****Data time: ', 0.0001835653781890869, 0.0001900196075439453)
+('****Fetch time: ', 2.1488308906555176e-05, 2.3126602172851562e-05)
+('****Sort time: ', 0.0006223182678222656, 0.0006339550018310547)
+****Stage 0 average time 0.0131608380079
+('****model config: ', u'configs/model_configs/dim_4_0.json')
+('****batch_size: ', [2048])
+****DCGs @ 4: 0.977243451604
+****DCGs @ 8: 0.959997570097
+****DCGs @ 16: 0.9339756669
+****DCGs @ 32: 0.911469650887
+****DCGs @ 64: 0.867528402698
+****Error : 0.185491210938
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_1_4.pth
+****Total experiment time (s):  13.9796459675
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.00549803364276886, 0.005903005599975586)
+('****Total time: ', 5.688210968494415, 10.775939035415648)
+('****Preprocess time: ', 0.0012103577852249146, 0.0012769699096679688)
+('****Data time: ', 0.00010927236080169678, 0.00011682510375976562)
+('****Fetch time: ', 1.5993714332580565e-05, 1.6927719116210938e-05)
+('****Sort time: ', 0.0003658709526062012, 0.0003769397735595703)
+****Stage 0 average time 0.00719952845573
+('****model config: ', u'configs/model_configs/dim_4_0.json')
+('****batch_size: ', [1024])
+****DCGs @ 4: 0.961665304116
+****DCGs @ 8: 0.935454036128
+****DCGs @ 16: 0.909446334039
+****DCGs @ 32: 0.867174948641
+****DCGs @ 64: 0.799531587569
+****Error : 0.185470703125
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_1_4.pth
+****Total experiment time (s):  9.10263895988
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.0035789459943771362, 0.0037450790405273438)
+('****Total time: ', 3.3345822664499285, 6.3190829873085015)
+('****Preprocess time: ', 0.0006821862459182739, 0.0007529258728027344)
+('****Data time: ', 9.678924083709717e-05, 0.00010017156600952129)
+('****Fetch time: ', 1.609516143798828e-05, 1.71661376953125e-05)
+('****Sort time: ', 0.000231093168258667, 0.00023889541625976562)
+****Stage 0 average time 0.00460510981083
+('****model config: ', u'configs/model_configs/dim_4_0.json')
+('****batch_size: ', [512])
+****DCGs @ 4: 0.928331543775
+****DCGs @ 8: 0.905737552383
+****DCGs @ 16: 0.864443304596
+****DCGs @ 32: 0.799386819817
+****DCGs @ 64: 0.712454753624
+****Error : 0.185516601562
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_1_4.pth
+****Total experiment time (s):  7.02421689034
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.002795054793357849, 0.0029452204704284667)
+('****Total time: ', 2.3428227204084395, 4.516779851913451)
+('****Preprocess time: ', 0.0004232562780380249, 0.0005259990692138669)
+('****Data time: ', 9.105610847473144e-05, 0.0001010894775390625)
+('****Fetch time: ', 1.7638802528381348e-05, 1.8835067749023438e-05)
+('****Sort time: ', 0.00015547382831573487, 0.00017218589782714818)
+****Stage 0 average time 0.00348247981071
+('****model config: ', u'configs/model_configs/dim_4_0.json')
+('****batch_size: ', [256])
+****DCGs @ 4: 0.896346741308
+****DCGs @ 8: 0.857550072691
+****DCGs @ 16: 0.795879049588
+****DCGs @ 32: 0.712690075198
+****DCGs @ 64: 0.598518286859
+****Error : 0.18546875
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_0_16.pth
+****Total experiment time (s):  55.5869250298
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.02236943447589874, 0.023592090606689452)
+('****Total time: ', 25.95522987174988, 49.10193914175033)
+('****Preprocess time: ', 0.004714247345924377, 0.004815828800201416)
+('****Data time: ', 0.00035565292835235596, 0.00036787986755371094)
+('****Fetch time: ', 4.052245616912842e-05, 4.410743713378906e-05)
+('****Sort time: ', 0.0013170768022537232, 0.0013551712036132812)
+****Stage 0 average time 0.0287969340086
+('****model config: ', u'configs/model_configs/dim_16.json')
+('****batch_size: ', [4096])
+****DCGs @ 4: 0.998234660869
+****DCGs @ 8: 0.989817407381
+****DCGs @ 16: 0.973266125416
+****DCGs @ 32: 0.951206256073
+****DCGs @ 64: 0.922150867727
+****Error : 0.183965209961
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_0_16.pth
+****Total experiment time (s):  27.2929189205
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.010840739011764527, 0.011294519901275633)
+('****Total time: ', 12.132481353282929, 23.02242496013641)
+('****Preprocess time: ', 0.002356062650680542, 0.0024309158325195312)
+('****Data time: ', 0.00020352303981781007, 0.0002110004425048828)
+('****Fetch time: ', 2.2960186004638673e-05, 2.4080276489257812e-05)
+('****Sort time: ', 0.0006967866420745849, 0.0007159709930419922)
+****Stage 0 average time 0.0141200715303
+('****model config: ', u'configs/model_configs/dim_16.json')
+('****batch_size: ', [2048])
+****DCGs @ 4: 0.984320861468
+****DCGs @ 8: 0.97218229901
+****DCGs @ 16: 0.952553881218
+****DCGs @ 32: 0.921466292286
+****DCGs @ 64: 0.875294899688
+****Error : 0.183969482422
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_0_16.pth
+****Total experiment time (s):  14.4512341022
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.005706779360771179, 0.00597313642501831)
+('****Total time: ', 5.940026658773422, 11.250198650360105)
+('****Preprocess time: ', 0.0012182931900024414, 0.0012819766998291016)
+('****Data time: ', 0.00011442279815673828, 0.0001220703125)
+('****Fetch time: ', 1.6063451766967773e-05, 1.71661376953125e-05)
+('****Sort time: ', 0.00037290513515472414, 0.00038695335388183594)
+****Stage 0 average time 0.00742846393585
+('****model config: ', u'configs/model_configs/dim_16.json')
+('****batch_size: ', [1024])
+****DCGs @ 4: 0.972685600059
+****DCGs @ 8: 0.951724953572
+****DCGs @ 16: 0.919978605154
+****DCGs @ 32: 0.8756784186
+****DCGs @ 64: 0.808773897843
+****Error : 0.183955078125
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_0_16.pth
+****Total experiment time (s):  9.20858001709
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.0036493394374847413, 0.004177093505859375)
+('****Total time: ', 3.3384137214422225, 6.43945825099945)
+('****Preprocess time: ', 0.0006752583980560303, 0.0007739067077636719)
+('****Data time: ', 8.686363697052002e-05, 0.0001010894775390625)
+('****Fetch time: ', 1.5844345092773438e-05, 1.811981201171875e-05)
+('****Sort time: ', 0.0002223426103591919, 0.00022912025451660156)
+****Stage 0 average time 0.00464964842796
+('****model config: ', u'configs/model_configs/dim_16.json')
+('****batch_size: ', [512])
+****DCGs @ 4: 0.9439648557
+****DCGs @ 8: 0.915512139927
+****DCGs @ 16: 0.872464559926
+****DCGs @ 32: 0.809889571594
+****DCGs @ 64: 0.719168726948
+****Error : 0.184021484375
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_0_16.pth
+****Total experiment time (s):  7.14267492294
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.0028779420852661133, 0.0029750347137451165)
+('****Total time: ', 2.4304850496053696, 4.621834444999694)
+('****Preprocess time: ', 0.0004082698822021484, 0.0004949688911437988)
+('****Data time: ', 9.031736850738525e-05, 9.894371032714844e-05)
+('****Fetch time: ', 1.7804503440856932e-05, 1.9073486328125e-05)
+('****Sort time: ', 0.0001617581844329834, 0.0001678466796875)
+****Stage 0 average time 0.00355609202385
+('****model config: ', u'configs/model_configs/dim_16.json')
+('****batch_size: ', [256])
+****DCGs @ 4: 0.903831816399
+****DCGs @ 8: 0.86438047231
+****DCGs @ 16: 0.806098789258
+****DCGs @ 32: 0.719974660104
+****DCGs @ 64: 0.603857920918
+****Error : 0.183951171875
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_51_32.pth
+****Total experiment time (s):  91.1069159508
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.04004533779621124, 0.04103827476501465)
+('****Total time: ', 43.63904493379593, 82.8237563729286)
+('****Preprocess time: ', 0.00478455126285553, 0.004921960830688477)
+('****Data time: ', 0.0003457329273223877, 0.00035500526428222656)
+('****Fetch time: ', 3.973400592803955e-05, 4.100799560546875e-05)
+('****Sort time: ', 0.0013423624038696289, 0.0013761520385742188)
+****Stage 0 average time 0.0465577183962
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+****DCGs @ 4: 0.996911800729
+****DCGs @ 8: 0.992673925879
+****DCGs @ 16: 0.975360745143
+****DCGs @ 32: 0.948266657163
+****DCGs @ 64: 0.924686352715
+****Error : 0.182043457031
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_51_32.pth
+****Total experiment time (s):  51.1966581345
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.022457930326461793, 0.023965537548065182)
+('****Total time: ', 24.287372861385347, 45.798888480663294)
+('****Preprocess time: ', 0.0025477249622344973, 0.002602100372314453)
+('****Data time: ', 0.00024185597896575928, 0.0002789497375488281)
+('****Fetch time: ', 3.4691691398620604e-05, 3.695487976074219e-05)
+('****Sort time: ', 0.0007209522724151611, 0.0007431864738464354)
+****Stage 0 average time 0.0260031552315
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [2048])
+****DCGs @ 4: 0.983597128165
+****DCGs @ 8: 0.971544461095
+****DCGs @ 16: 0.949357434561
+****DCGs @ 32: 0.924415240692
+****DCGs @ 64: 0.879925171612
+****Error : 0.182047851563
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_51_32.pth
+****Total experiment time (s):  24.0236039162
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.010313169836997985, 0.01062990427017212)
+('****Total time: ', 10.717540464162827, 20.31948862075805)
+('****Preprocess time: ', 0.0013106660842895509, 0.0013589859008789062)
+('****Data time: ', 0.00014499104022979735, 0.00015306472778320312)
+('****Fetch time: ', 2.4907946586608888e-05, 2.5987625122070312e-05)
+('****Sort time: ', 0.00041781830787658694, 0.0004420280456542969)
+****Stage 0 average time 0.012211553216
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [1024])
+****DCGs @ 4: 0.971405334172
+****DCGs @ 8: 0.948442280566
+****DCGs @ 16: 0.923259610396
+****DCGs @ 32: 0.879201373516
+****DCGs @ 64: 0.816176108491
+****Error : 0.182041015625
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_51_32.pth
+****Total experiment time (s):  12.5970048904
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.005343280792236328, 0.005511045455932617)
+('****Total time: ', 5.076931493043899, 9.651811349391934)
+('****Preprocess time: ', 0.0006715759038925171, 0.0007281303405761719)
+('****Data time: ', 8.990585803985595e-05, 9.202957153320312e-05)
+('****Fetch time: ', 1.6753077507019043e-05, 1.7881393432617188e-05)
+('****Sort time: ', 0.00024244701862335204, 0.00026702880859375)
+****Stage 0 average time 0.0063639626503
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [512])
+****DCGs @ 4: 0.945589104266
+****DCGs @ 8: 0.920075190249
+****DCGs @ 16: 0.876343642111
+****DCGs @ 32: 0.816573553302
+****DCGs @ 64: 0.726492651994
+****Error : 0.182109375
+****GPU Flags [False]
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Loading saved model /data/rec/recpipe_artifact/r2_model_51_32.pth
+****Total experiment time (s):  8.07567596436
+('****Average Arrival Rate: ', 1)
+('****Total queries: ', 2000)
+('****Inference time: ', 0.0034093644618988037, 0.003554141521453857)
+('****Total time: ', 2.917117149949074, 5.5266442656517025)
+('****Preprocess time: ', 0.00037427079677581786, 0.00045800209045410156)
+('****Data time: ', 6.909775733947754e-05, 8.702278137207031e-05)
+('****Fetch time: ', 1.5461444854736327e-05, 1.621246337890625e-05)
+('****Sort time: ', 0.00016393935680389404, 0.0001671314239501953)
+****Stage 0 average time 0.00403213381767
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [256])
+****DCGs @ 4: 0.910489917669
+****DCGs @ 8: 0.868939419001
+****DCGs @ 16: 0.812507958771
+****DCGs @ 32: 0.727306432148
+****DCGs @ 64: 0.608432277189
+****Error : 0.1820546875
+****GPU Flags [False]
+===================================================
+Sun Jul 25 05:40:02 UTC 2021

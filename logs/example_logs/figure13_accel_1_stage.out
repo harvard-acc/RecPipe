@@ -1,0 +1,5296 @@
+Thu Jul 29 01:43:44 UTC 2021
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  25.3180868626
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 22.49172806739807)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 6.030742986130714)
+('****Total tail time (s): ', 11.443897426128387)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 22.471001863479614)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.6495638938426972)
+('****Total tail time (s): ', 1.238594102859497)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 70.9301357615
+('****Total experiment time (s): ', 41.360904932022095)
+('****Infer mean time (s): ', 0.0020907438257427224)
+('****Infer tail time (s): ', 0.0020907438257427215)
+('****Total mean time (s): ', 0.002749696922302246)
+('****Total tail time (s): ', 0.004553127288818359)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  35.9446849823
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 32.075315952301025)
+('****Infer mean time (s): ', 0.003055358489553452)
+('****Infer tail time (s): ', 0.0030553584895534514)
+('****Total mean time (s): ', 10.819880483841896)
+('****Total tail time (s): ', 20.555498147010802)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 32.0889790058136)
+('****Infer mean time (s): ', 0.003055358489553452)
+('****Infer tail time (s): ', 0.0030553584895534514)
+('****Total mean time (s): ', 5.459318203282356)
+('****Total tail time (s): ', 10.352384638786315)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 84.6593068174
+('****Total experiment time (s): ', 41.37390398979187)
+('****Infer mean time (s): ', 0.003055358489553452)
+('****Infer tail time (s): ', 0.0030553584895534514)
+('****Total mean time (s): ', 0.004721161675453186)
+('****Total tail time (s): ', 0.008913993835449219)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  46.483850956
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.73902893066406)
+('****Infer mean time (s): ', 0.004023764083555223)
+('****Infer tail time (s): ', 0.004023764083555222)
+('****Total mean time (s): ', 15.627756122350693)
+('****Total tail time (s): ', 29.65045975446701)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.86011004447937)
+('****Infer mean time (s): ', 0.004023764083555223)
+('****Infer tail time (s): ', 0.004023764083555222)
+('****Total mean time (s): ', 10.354742675876617)
+('****Total tail time (s): ', 19.679629158973693)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 93.9371485465
+('****Total experiment time (s): ', 41.88192582130432)
+('****Infer mean time (s): ', 0.004023764083555223)
+('****Infer tail time (s): ', 0.004023764083555222)
+('****Total mean time (s): ', 0.31027405073642733)
+('****Total tail time (s): ', 0.4617392659187316)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  56.8294568062
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.33350396156311)
+('****Infer mean time (s): ', 0.00499027421246147)
+('****Infer tail time (s): ', 0.004990274212461471)
+('****Total mean time (s): ', 20.451984661102294)
+('****Total tail time (s): ', 38.736086821556086)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 51.294435024261475)
+('****Infer mean time (s): ', 0.00499027421246147)
+('****Infer tail time (s): ', 0.004990274212461471)
+('****Total mean time (s): ', 15.11773594210148)
+('****Total tail time (s): ', 28.548809623718256)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 95.181387941
+('****Total experiment time (s): ', 51.339102029800415)
+('****Infer mean time (s): ', 0.00499027421246147)
+('****Infer tail time (s): ', 0.004990274212461471)
+('****Total mean time (s): ', 5.121552527618408)
+('****Total tail time (s): ', 9.6242418885231)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  69.312240839
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 61.26294183731079)
+('****Infer mean time (s): ', 0.00595678434136772)
+('****Infer tail time (s): ', 0.005956784341367722)
+('****Total mean time (s): ', 25.41197303800583)
+('****Total tail time (s): ', 48.262012243270874)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 61.10157489776611)
+('****Infer mean time (s): ', 0.00595678434136772)
+('****Infer tail time (s): ', 0.005956784341367722)
+('****Total mean time (s): ', 19.981533415579797)
+('****Total tail time (s): ', 37.93853110074996)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 95.8086502915
+Thu Jul 29 02:00:24 UTC 2021
+('****Total experiment time (s): ', 61.125006914138794)
+('****Infer mean time (s): ', 0.00595678434136772)
+('****Infer tail time (s): ', 0.005956784341367722)
+('****Total mean time (s): ', 10.028820576786995)
+('****Total tail time (s): ', 18.985120439529414)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_1.json'])
+('****accel counts: ', [1])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  13.2236709595
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 12.067232131958008)
+('****Infer mean time (s): ', 0.004683535302970886)
+('****Infer tail time (s): ', 0.004683535302970886)
+('****Total mean time (s): ', 0.8029917713880539)
+('****Total tail time (s): ', 1.516974914073944)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.374496936798096)
+('****Infer mean time (s): ', 0.004683535302970886)
+('****Infer tail time (s): ', 0.004683535302970886)
+('****Total mean time (s): ', 0.005606949925422668)
+('****Total tail time (s): ', 0.007677316665649411)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 43.3967162591
+Accel 0 util: 43.4831663806
+Accel 0 util: 43.4131922556
+Accel 0 util: 43.4065536066
+('****Total experiment time (s): ', 41.40133094787598)
+('****Infer mean time (s): ', 0.004683535302970886)
+('****Infer tail time (s): ', 0.004683535302970886)
+('****Total mean time (s): ', 0.005029801869392395)
+('****Total tail time (s): ', 0.0059549808502197266)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  19.2954890728
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 17.614353895187378)
+('****Infer mean time (s): ', 0.0068771792082138045)
+('****Infer tail time (s): ', 0.006877179208213806)
+('****Total mean time (s): ', 3.5721899661302565)
+('****Total tail time (s): ', 6.785561728477478)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.36634588241577)
+('****Infer mean time (s): ', 0.0068771792082138045)
+('****Infer tail time (s): ', 0.006877179208213806)
+('****Total mean time (s): ', 0.009330313992500306)
+('****Total tail time (s): ', 0.015172052383422851)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 59.591302718
+Accel 0 util: 59.7996409568
+Accel 0 util: 59.5758656852
+Accel 0 util: 59.6479771905
+('****Total experiment time (s): ', 41.37652802467346)
+('****Infer mean time (s): ', 0.0068771792082138045)
+('****Infer tail time (s): ', 0.006877179208213806)
+('****Total mean time (s): ', 0.007198884606361389)
+('****Total tail time (s): ', 0.00814199447631836)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  25.0904710293
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 23.088266849517822)
+('****Infer mean time (s): ', 0.009079424334220886)
+('****Infer tail time (s): ', 0.009079424334220886)
+('****Total mean time (s): ', 6.3178684319496154)
+('****Total tail time (s): ', 11.970255923271178)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 23.231473922729492)
+('****Infer mean time (s): ', 0.009079424334220886)
+('****Infer tail time (s): ', 0.009079424334220886)
+('****Total mean time (s): ', 1.0067075308561324)
+('****Total tail time (s): ', 1.9731252312660217)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 72.6986855959
+Accel 0 util: 72.74152951
+Accel 0 util: 72.6956060129
+Accel 0 util: 72.7002334109
+('****Total experiment time (s): ', 41.35560202598572)
+('****Infer mean time (s): ', 0.009079424334220886)
+('****Infer tail time (s): ', 0.009079424334220886)
+('****Total mean time (s): ', 0.009459939360618591)
+('****Total tail time (s): ', 0.010355949401855469)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  33.8283140659
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 28.62640690803528)
+('****Infer mean time (s): ', 0.011277368849845888)
+('****Infer tail time (s): ', 0.011277368849845886)
+('****Total mean time (s): ', 9.089121801710128)
+('****Total tail time (s): ', 17.256827890872955)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 28.584893941879272)
+('****Infer mean time (s): ', 0.011277368849845888)
+('****Infer tail time (s): ', 0.011277368849845886)
+('****Total mean time (s): ', 3.7268503053426745)
+('****Total tail time (s): ', 7.050001490116119)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 80.9156775235
+Accel 0 util: 80.9523588609
+Accel 0 util: 80.949875604
+Accel 0 util: 80.9441391717
+('****Total experiment time (s): ', 41.41276979446411)
+('****Infer mean time (s): ', 0.011277368849845888)
+('****Infer tail time (s): ', 0.011277368849845886)
+('****Total mean time (s): ', 0.011840489554405212)
+('****Total tail time (s): ', 0.013522863388061523)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  41.457531929
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 34.073933124542236)
+('****Infer mean time (s): ', 0.01347531336547089)
+('****Infer tail time (s): ', 0.013475313365470885)
+('****Total mean time (s): ', 11.810726351428032)
+('****Total tail time (s): ', 22.44356724023819)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 34.08635187149048)
+('****Infer mean time (s): ', 0.01347531336547089)
+('****Infer tail time (s): ', 0.013475313365470885)
+('****Total mean time (s): ', 6.440854222607612)
+('****Total tail time (s): ', 12.20200103521347)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 87.5792443707
+Accel 0 util: 87.6041323586
+Accel 0 util: 87.5645851949
+Accel 0 util: 87.6038996406
+Thu Jul 29 02:12:02 UTC 2021
+('****Total experiment time (s): ', 41.43024802207947)
+('****Infer mean time (s): ', 0.01347531336547089)
+('****Infer tail time (s): ', 0.013475313365470885)
+('****Total mean time (s): ', 0.014830300235748292)
+('****Total tail time (s): ', 0.01976804733276367)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_4.json'])
+('****accel counts: ', [4])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  12.496961832
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 10.66405701637268)
+('****Infer mean time (s): ', 0.013682197211883546)
+('****Infer tail time (s): ', 0.013682197211883546)
+('****Total mean time (s): ', 0.01601387515068054)
+('****Total tail time (s): ', 0.021381235122680663)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.44336700439453)
+('****Infer mean time (s): ', 0.013682197211883546)
+('****Infer tail time (s): ', 0.013682197211883546)
+('****Total mean time (s): ', 0.014326779174804688)
+('****Total tail time (s): ', 0.015972137451171875)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 29.4134114986
+Accel 0 util: 29.5244792555
+Accel 0 util: 29.6457285447
+Accel 0 util: 29.6121125568
+Accel 0 util: 29.3522465894
+Accel 0 util: 29.4223111475
+Accel 0 util: 29.7125215983
+Accel 0 util: 29.5548557423
+Accel 0 util: 29.7002281492
+Accel 0 util: 29.5272308194
+Accel 0 util: 29.6598358813
+Accel 0 util: 29.5869942048
+Accel 0 util: 29.6855060318
+Accel 0 util: 29.6540094082
+Accel 0 util: 29.5826672374
+Accel 0 util: 29.5966813129
+('****Total experiment time (s): ', 41.47905087471008)
+('****Infer mean time (s): ', 0.013682197211883546)
+('****Infer tail time (s): ', 0.013682197211883546)
+('****Total mean time (s): ', 0.014020045161247253)
+('****Total tail time (s): ', 0.01495290994644165)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  17.4777619839
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 12.719149112701416)
+('****Infer mean time (s): ', 0.02015423008285522)
+('****Infer tail time (s): ', 0.020154230082855225)
+('****Total mean time (s): ', 1.220070642209053)
+('****Total tail time (s): ', 2.315114367008209)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.409247875213623)
+('****Infer mean time (s): ', 0.02015423008285522)
+('****Infer tail time (s): ', 0.020154230082855225)
+('****Total mean time (s): ', 0.02080800898075104)
+('****Total tail time (s): ', 0.02244114875793457)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 42.8380716121
+Accel 0 util: 42.8121097988
+Accel 0 util: 42.8034699509
+Accel 0 util: 42.8295743499
+Accel 0 util: 42.7787034508
+Accel 0 util: 43.00168085
+Accel 0 util: 42.9020652505
+Accel 0 util: 42.9081277123
+Accel 0 util: 42.8557634346
+Accel 0 util: 42.7983374892
+Accel 0 util: 42.7831741437
+Accel 0 util: 42.907401607
+Accel 0 util: 42.8765984625
+Accel 0 util: 42.7739616972
+Accel 0 util: 42.9408705159
+Accel 0 util: 42.8787607697
+('****Total experiment time (s): ', 41.41584300994873)
+('****Infer mean time (s): ', 0.02015423008285522)
+('****Infer tail time (s): ', 0.020154230082855225)
+('****Total mean time (s): ', 0.020484559559822084)
+('****Total tail time (s): ', 0.02142190933227539)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  23.7335720062
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 16.781920909881592)
+('****Infer mean time (s): ', 0.02665160933688355)
+('****Infer tail time (s): ', 0.026651609336883545)
+('****Total mean time (s): ', 3.175396674489975)
+('****Total tail time (s): ', 6.011935043334961)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.254565000534058)
+('****Infer mean time (s): ', 0.02665160933688355)
+('****Infer tail time (s): ', 0.026651609336883545)
+('****Total mean time (s): ', 0.027728424620628356)
+('****Total tail time (s): ', 0.030881178379058835)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 55.2225087133
+Accel 0 util: 55.2945444606
+Accel 0 util: 55.2737755349
+Accel 0 util: 55.3581663364
+Accel 0 util: 55.1885881743
+Accel 0 util: 55.0298828078
+Accel 0 util: 55.2851544296
+Accel 0 util: 55.3301101513
+Accel 0 util: 55.1843297273
+Accel 0 util: 55.324614577
+Accel 0 util: 55.2500394966
+Accel 0 util: 55.2337214081
+Accel 0 util: 55.2628947656
+Accel 0 util: 55.3154505539
+Accel 0 util: 55.218556231
+Accel 0 util: 55.317240036
+('****Total experiment time (s): ', 41.02732181549072)
+('****Infer mean time (s): ', 0.02665160933688355)
+('****Infer tail time (s): ', 0.026651609336883545)
+('****Total mean time (s): ', 0.026980753779411316)
+('****Total tail time (s): ', 0.027892148494720458)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  28.7353429794
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 20.836682081222534)
+('****Infer mean time (s): ', 0.03313631539938355)
+('****Infer tail time (s): ', 0.03313631539938355)
+('****Total mean time (s): ', 5.198054013085366)
+('****Total tail time (s): ', 9.835704386234283)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.296683073043823)
+('****Infer mean time (s): ', 0.03313631539938355)
+('****Infer tail time (s): ', 0.03313631539938355)
+('****Total mean time (s): ', 0.04833105721473694)
+('****Total tail time (s): ', 0.0771492600440979)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 66.2631493957
+Accel 0 util: 66.2913561702
+Accel 0 util: 66.3905305635
+Accel 0 util: 66.2875870901
+Accel 0 util: 66.2628342832
+Accel 0 util: 66.2159725224
+Accel 0 util: 66.2335653897
+Accel 0 util: 66.2597116306
+Accel 0 util: 66.2360721729
+Accel 0 util: 66.2303069075
+Accel 0 util: 66.3098050523
+Accel 0 util: 66.3830423979
+Accel 0 util: 66.3467721775
+Accel 0 util: 66.4088663615
+Accel 0 util: 66.3034506421
+Accel 0 util: 66.379922485
+('****Total experiment time (s): ', 41.36930298805237)
+('****Infer mean time (s): ', 0.03313631539938355)
+('****Infer tail time (s): ', 0.03313631539938355)
+('****Total mean time (s): ', 0.0334683128118515)
+('****Total tail time (s): ', 0.03440499305725098)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  30.2590069771
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 24.894295930862427)
+('****Infer mean time (s): ', 0.03962102146188355)
+('****Infer tail time (s): ', 0.039621021461883545)
+('****Total mean time (s): ', 7.2310013340950015)
+('****Total tail time (s): ', 13.70833715200424)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 24.899872064590454)
+('****Infer mean time (s): ', 0.03962102146188355)
+('****Infer tail time (s): ', 0.039621021461883545)
+('****Total mean time (s): ', 1.8470990752458571)
+('****Total tail time (s): ', 3.4090829730033874)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 73.6554314462
+Accel 0 util: 73.7047318825
+Accel 0 util: 73.674288696
+Accel 0 util: 73.6753692558
+Accel 0 util: 73.7172539031
+Accel 0 util: 73.7487838121
+Accel 0 util: 73.7571950739
+Accel 0 util: 73.6722023781
+Accel 0 util: 73.7472010522
+Accel 0 util: 73.7091603792
+Accel 0 util: 73.6813810774
+Accel 0 util: 73.671190478
+Accel 0 util: 73.7612005793
+Accel 0 util: 73.7527289015
+Accel 0 util: 73.7577943616
+Accel 0 util: 73.7180172288
+Thu Jul 29 02:22:36 UTC 2021
+('****Total experiment time (s): ', 41.44673705101013)
+('****Infer mean time (s): ', 0.03962102146188355)
+('****Infer tail time (s): ', 0.039621021461883545)
+('****Total mean time (s): ', 0.039954233384132384)
+('****Total tail time (s): ', 0.040888071060180664)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_16.json'])
+('****accel counts: ', [16])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+Launched inference engine 0/16
+Launched inference engine 0/17
+Launched inference engine 0/18
+Launched inference engine 0/19
+Launched inference engine 0/20
+Launched inference engine 0/21
+Launched inference engine 0/22
+Launched inference engine 0/23
+Launched inference engine 0/24
+Launched inference engine 0/25
+Launched inference engine 0/26
+Launched inference engine 0/27
+Launched inference engine 0/28
+Launched inference engine 0/29
+Launched inference engine 0/30
+Launched inference engine 0/31
+Launched inference engine 0/32
+Launched inference engine 0/33
+Launched inference engine 0/34
+Launched inference engine 0/35
+Launched inference engine 0/36
+Launched inference engine 0/37
+Launched inference engine 0/38
+Launched inference engine 0/39
+Launched inference engine 0/40
+Launched inference engine 0/41
+Launched inference engine 0/42
+Launched inference engine 0/43
+Launched inference engine 0/44
+Launched inference engine 0/45
+Launched inference engine 0/46
+Launched inference engine 0/47
+Launched inference engine 0/48
+Launched inference engine 0/49
+Launched inference engine 0/50
+Launched inference engine 0/51
+Launched inference engine 0/52
+Launched inference engine 0/53
+Launched inference engine 0/54
+Launched inference engine 0/55
+Launched inference engine 0/56
+Launched inference engine 0/57
+Launched inference engine 0/58
+Launched inference engine 0/59
+Launched inference engine 0/60
+Launched inference engine 0/61
+Launched inference engine 0/62
+Launched inference engine 0/63
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  15.1693301201
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 14.827388048171997)
+('****Infer mean time (s): ', 0.09408653139013669)
+('****Infer tail time (s): ', 0.09408653139013672)
+('****Total mean time (s): ', 2.222640892457962)
+('****Total tail time (s): ', 4.137874495983124)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.39739990234375)
+('****Infer mean time (s): ', 0.09408653139013669)
+('****Infer tail time (s): ', 0.09408653139013672)
+('****Total mean time (s): ', 0.09480881671905518)
+('****Total tail time (s): ', 0.09643292427062988)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 37.4708675501
+Accel 0 util: 37.3711655067
+Accel 0 util: 37.857996141
+Accel 0 util: 37.5908586952
+Accel 0 util: 37.318115552
+Accel 0 util: 38.0049411427
+Accel 0 util: 37.4711515252
+Accel 0 util: 37.3933416941
+Accel 0 util: 37.6852514958
+Accel 0 util: 37.7103066782
+Accel 0 util: 37.6641065141
+Accel 0 util: 37.9238437307
+Accel 0 util: 37.6785736616
+Accel 0 util: 37.4967518304
+Accel 0 util: 37.8712508618
+Accel 0 util: 37.7847191524
+Accel 0 util: 38.1024193998
+Accel 0 util: 37.4823052863
+Accel 0 util: 37.5426246969
+Accel 0 util: 37.4306988457
+Accel 0 util: 37.6942366386
+Accel 0 util: 37.8922809337
+Accel 0 util: 37.8112030728
+Accel 0 util: 37.3857988711
+Accel 0 util: 37.8677885308
+Accel 0 util: 37.9565166179
+Accel 0 util: 37.6899807701
+Accel 0 util: 37.6111021707
+Accel 0 util: 37.205605735
+Accel 0 util: 37.5853939426
+Accel 0 util: 37.1763807507
+Accel 0 util: 37.7240510641
+Accel 0 util: 38.0911122964
+Accel 0 util: 37.1353502877
+Accel 0 util: 37.0143538986
+Accel 0 util: 37.3298109452
+Accel 0 util: 37.3873950047
+Accel 0 util: 37.8308590092
+Accel 0 util: 37.6187801326
+Accel 0 util: 38.0578219795
+Accel 0 util: 37.7165012243
+Accel 0 util: 37.2672372251
+Accel 0 util: 37.5638084359
+Accel 0 util: 37.498858229
+Accel 0 util: 37.6910545066
+Accel 0 util: 37.8216407422
+Accel 0 util: 37.7557362012
+Accel 0 util: 38.0178374329
+Accel 0 util: 37.6567887395
+Accel 0 util: 37.5018654886
+Accel 0 util: 38.0483176923
+Accel 0 util: 37.9778067306
+Accel 0 util: 37.8377340631
+Accel 0 util: 37.6019160279
+Accel 0 util: 37.7291101786
+Accel 0 util: 37.3415710253
+Accel 0 util: 38.0010626861
+Accel 0 util: 37.8658435297
+Accel 0 util: 37.127845698
+Accel 0 util: 37.3509313725
+Accel 0 util: 37.7959404451
+Accel 0 util: 37.5952151219
+Accel 0 util: 37.598829049
+Accel 0 util: 37.5299190763
+('****Total experiment time (s): ', 41.384015798568726)
+('****Infer mean time (s): ', 0.09408653139013669)
+('****Infer tail time (s): ', 0.09408653139013672)
+('****Total mean time (s): ', 0.09447420771121978)
+('****Total tail time (s): ', 0.09540605545043945)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [4096])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+Launched inference engine 0/16
+Launched inference engine 0/17
+Launched inference engine 0/18
+Launched inference engine 0/19
+Launched inference engine 0/20
+Launched inference engine 0/21
+Launched inference engine 0/22
+Launched inference engine 0/23
+Launched inference engine 0/24
+Launched inference engine 0/25
+Launched inference engine 0/26
+Launched inference engine 0/27
+Launched inference engine 0/28
+Launched inference engine 0/29
+Launched inference engine 0/30
+Launched inference engine 0/31
+Launched inference engine 0/32
+Launched inference engine 0/33
+Launched inference engine 0/34
+Launched inference engine 0/35
+Launched inference engine 0/36
+Launched inference engine 0/37
+Launched inference engine 0/38
+Launched inference engine 0/39
+Launched inference engine 0/40
+Launched inference engine 0/41
+Launched inference engine 0/42
+Launched inference engine 0/43
+Launched inference engine 0/44
+Launched inference engine 0/45
+Launched inference engine 0/46
+Launched inference engine 0/47
+Launched inference engine 0/48
+Launched inference engine 0/49
+Launched inference engine 0/50
+Launched inference engine 0/51
+Launched inference engine 0/52
+Launched inference engine 0/53
+Launched inference engine 0/54
+Launched inference engine 0/55
+Launched inference engine 0/56
+Launched inference engine 0/57
+Launched inference engine 0/58
+Launched inference engine 0/59
+Launched inference engine 0/60
+Launched inference engine 0/61
+Launched inference engine 0/62
+Launched inference engine 0/63
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  22.0269999504
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.559539079666138)
+('****Infer mean time (s): ', 0.13693952757568356)
+('****Infer tail time (s): ', 0.1369395275756836)
+('****Total mean time (s): ', 5.594783432912827)
+('****Total tail time (s): ', 10.53819705247879)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 21.61146306991577)
+('****Infer mean time (s): ', 0.13693952757568356)
+('****Infer tail time (s): ', 0.1369395275756836)
+('****Total mean time (s): ', 0.2618952977180481)
+('****Total tail time (s): ', 0.3592162251472473)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 54.6946459866
+Accel 0 util: 54.6819304922
+Accel 0 util: 54.6941031172
+Accel 0 util: 54.7646806065
+Accel 0 util: 54.4418049671
+Accel 0 util: 54.7093704276
+Accel 0 util: 54.5211896575
+Accel 0 util: 54.2794700253
+Accel 0 util: 54.6972972461
+Accel 0 util: 54.5240947106
+Accel 0 util: 54.4591843112
+Accel 0 util: 54.2246828364
+Accel 0 util: 55.0208350022
+Accel 0 util: 54.5340458205
+Accel 0 util: 54.2426674247
+Accel 0 util: 54.7509627983
+Accel 0 util: 54.5357382412
+Accel 0 util: 54.7960796339
+Accel 0 util: 54.4967235853
+Accel 0 util: 54.3999847209
+Accel 0 util: 54.7333565318
+Accel 0 util: 54.2620454726
+Accel 0 util: 54.6592405466
+Accel 0 util: 54.6691804145
+Accel 0 util: 54.4825710827
+Accel 0 util: 54.6835405634
+Accel 0 util: 54.7429756806
+Accel 0 util: 55.2504667507
+Accel 0 util: 54.9272670429
+Accel 0 util: 54.7686555088
+Accel 0 util: 54.5124563392
+Accel 0 util: 54.5187049488
+Accel 0 util: 54.9303657215
+Accel 0 util: 54.446359063
+Accel 0 util: 54.7076178974
+Accel 0 util: 54.4658987968
+Accel 0 util: 54.4500026114
+Accel 0 util: 54.403539236
+Accel 0 util: 54.7083584474
+Accel 0 util: 54.4453238055
+Accel 0 util: 54.7588213045
+Accel 0 util: 54.7480003286
+Accel 0 util: 54.7233738648
+Accel 0 util: 54.7151468342
+Accel 0 util: 54.2545071966
+Accel 0 util: 54.7161556379
+Accel 0 util: 54.7674682445
+Accel 0 util: 54.7666445794
+Accel 0 util: 54.4865659259
+Accel 0 util: 54.9639692224
+Accel 0 util: 54.4115116409
+Accel 0 util: 54.6722053842
+Accel 0 util: 54.742332707
+Accel 0 util: 54.7628144667
+Accel 0 util: 55.1530897591
+Accel 0 util: 54.7445383691
+Accel 0 util: 54.6955341145
+Accel 0 util: 54.990903941
+Accel 0 util: 54.6680632366
+Accel 0 util: 54.6456886622
+Accel 0 util: 54.7348229753
+Accel 0 util: 54.9104126053
+Accel 0 util: 54.9255761367
+Accel 0 util: 55.0251201716
+('****Total experiment time (s): ', 41.4251229763031)
+('****Infer mean time (s): ', 0.13693952757568356)
+('****Infer tail time (s): ', 0.1369395275756836)
+('****Total mean time (s): ', 0.13736800258159637)
+('****Total tail time (s): ', 0.13829898834228516)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [6140])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+Launched inference engine 0/16
+Launched inference engine 0/17
+Launched inference engine 0/18
+Launched inference engine 0/19
+Launched inference engine 0/20
+Launched inference engine 0/21
+Launched inference engine 0/22
+Launched inference engine 0/23
+Launched inference engine 0/24
+Launched inference engine 0/25
+Launched inference engine 0/26
+Launched inference engine 0/27
+Launched inference engine 0/28
+Launched inference engine 0/29
+Launched inference engine 0/30
+Launched inference engine 0/31
+Launched inference engine 0/32
+Launched inference engine 0/33
+Launched inference engine 0/34
+Launched inference engine 0/35
+Launched inference engine 0/36
+Launched inference engine 0/37
+Launched inference engine 0/38
+Launched inference engine 0/39
+Launched inference engine 0/40
+Launched inference engine 0/41
+Launched inference engine 0/42
+Launched inference engine 0/43
+Launched inference engine 0/44
+Launched inference engine 0/45
+Launched inference engine 0/46
+Launched inference engine 0/47
+Launched inference engine 0/48
+Launched inference engine 0/49
+Launched inference engine 0/50
+Launched inference engine 0/51
+Launched inference engine 0/52
+Launched inference engine 0/53
+Launched inference engine 0/54
+Launched inference engine 0/55
+Launched inference engine 0/56
+Launched inference engine 0/57
+Launched inference engine 0/58
+Launched inference engine 0/59
+Launched inference engine 0/60
+Launched inference engine 0/61
+Launched inference engine 0/62
+Launched inference engine 0/63
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  29.3351531029
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 28.323081016540527)
+('****Infer mean time (s): ', 0.1799602613901367)
+('****Infer tail time (s): ', 0.1799602613901367)
+('****Total mean time (s): ', 8.967121756315231)
+('****Total tail time (s): ', 16.92653570175171)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 28.33264994621277)
+('****Infer mean time (s): ', 0.1799602613901367)
+('****Infer tail time (s): ', 0.1799602613901367)
+('****Total mean time (s): ', 3.7449222009181975)
+('****Total tail time (s): ', 6.917125940322876)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 68.4268772901
+Accel 0 util: 68.6657944595
+Accel 0 util: 68.9202003706
+Accel 0 util: 68.4008797524
+Accel 0 util: 68.7825133968
+Accel 0 util: 68.3529241731
+Accel 0 util: 68.7347389289
+Accel 0 util: 68.6239830792
+Accel 0 util: 68.3907418045
+Accel 0 util: 68.3922809845
+Accel 0 util: 68.6056156628
+Accel 0 util: 68.5935851348
+Accel 0 util: 68.6543053649
+Accel 0 util: 68.1513923
+Accel 0 util: 68.4389883996
+Accel 0 util: 68.6886943566
+Accel 0 util: 68.4321066964
+Accel 0 util: 68.6802816177
+Accel 0 util: 68.4240861791
+Accel 0 util: 68.4415936601
+Accel 0 util: 68.3724395071
+Accel 0 util: 68.1189472992
+Accel 0 util: 68.3815867592
+Accel 0 util: 68.3772079821
+Accel 0 util: 68.6035716538
+Accel 0 util: 68.7628219246
+Accel 0 util: 68.6957667219
+Accel 0 util: 68.6179020412
+Accel 0 util: 68.7558110832
+Accel 0 util: 68.4087418471
+Accel 0 util: 68.7734420968
+Accel 0 util: 68.662876945
+Accel 0 util: 68.6268461038
+Accel 0 util: 68.151526294
+Accel 0 util: 68.6993014998
+Accel 0 util: 68.6187809052
+Accel 0 util: 68.4278955847
+Accel 0 util: 68.5788604403
+Accel 0 util: 68.4733789099
+Accel 0 util: 68.4586658506
+Accel 0 util: 68.6789930996
+Accel 0 util: 68.5955798123
+Accel 0 util: 68.9137332863
+Accel 0 util: 68.7197733574
+Accel 0 util: 68.6830719725
+Accel 0 util: 68.6139488567
+Accel 0 util: 68.4557897666
+Accel 0 util: 68.3831204013
+Accel 0 util: 68.6123068135
+Accel 0 util: 68.7623183359
+Accel 0 util: 68.9459927891
+Accel 0 util: 68.9304152949
+Accel 0 util: 68.7667064337
+Accel 0 util: 68.7925839355
+Accel 0 util: 68.6672727082
+Accel 0 util: 68.7374043187
+Accel 0 util: 68.6784845865
+Accel 0 util: 69.0322980269
+Accel 0 util: 68.6779551391
+Accel 0 util: 69.0101671291
+Accel 0 util: 68.7476134612
+Accel 0 util: 69.004606896
+Accel 0 util: 68.7870247656
+Accel 0 util: 68.9036913837
+('****Total experiment time (s): ', 41.47264289855957)
+('****Infer mean time (s): ', 0.1799602613901367)
+('****Infer tail time (s): ', 0.1799602613901367)
+('****Total mean time (s): ', 0.18043331944942476)
+('****Total tail time (s): ', 0.1813669204711914)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [8192])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+Launched inference engine 0/16
+Launched inference engine 0/17
+Launched inference engine 0/18
+Launched inference engine 0/19
+Launched inference engine 0/20
+Launched inference engine 0/21
+Launched inference engine 0/22
+Launched inference engine 0/23
+Launched inference engine 0/24
+Launched inference engine 0/25
+Launched inference engine 0/26
+Launched inference engine 0/27
+Launched inference engine 0/28
+Launched inference engine 0/29
+Launched inference engine 0/30
+Launched inference engine 0/31
+Launched inference engine 0/32
+Launched inference engine 0/33
+Launched inference engine 0/34
+Launched inference engine 0/35
+Launched inference engine 0/36
+Launched inference engine 0/37
+Launched inference engine 0/38
+Launched inference engine 0/39
+Launched inference engine 0/40
+Launched inference engine 0/41
+Launched inference engine 0/42
+Launched inference engine 0/43
+Launched inference engine 0/44
+Launched inference engine 0/45
+Launched inference engine 0/46
+Launched inference engine 0/47
+Launched inference engine 0/48
+Launched inference engine 0/49
+Launched inference engine 0/50
+Launched inference engine 0/51
+Launched inference engine 0/52
+Launched inference engine 0/53
+Launched inference engine 0/54
+Launched inference engine 0/55
+Launched inference engine 0/56
+Launched inference engine 0/57
+Launched inference engine 0/58
+Launched inference engine 0/59
+Launched inference engine 0/60
+Launched inference engine 0/61
+Launched inference engine 0/62
+Launched inference engine 0/63
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  41.0320520401
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 35.071779012680054)
+('****Infer mean time (s): ', 0.22289712639013673)
+('****Infer tail time (s): ', 0.22289712639013673)
+('****Total mean time (s): ', 12.317566120386124)
+('****Total tail time (s): ', 23.28659148216248)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 35.08352494239807)
+('****Infer mean time (s): ', 0.22289712639013673)
+('****Infer tail time (s): ', 0.22289712639013673)
+('****Total mean time (s): ', 7.024313473796845)
+('****Total tail time (s): ', 13.17832442522049)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 81.1225903809
+Accel 0 util: 81.1615148266
+Accel 0 util: 81.079370011
+Accel 0 util: 81.0834623612
+Accel 0 util: 81.1160859704
+Accel 0 util: 81.1704032742
+Accel 0 util: 81.1095080496
+Accel 0 util: 81.2599997866
+Accel 0 util: 81.1420600655
+Accel 0 util: 81.150797539
+Accel 0 util: 81.403894788
+Accel 0 util: 81.0644655421
+Accel 0 util: 81.2609497771
+Accel 0 util: 81.1314243594
+Accel 0 util: 81.1682061872
+Accel 0 util: 81.1317552925
+Accel 0 util: 81.2871115419
+Accel 0 util: 81.4560289124
+Accel 0 util: 81.2577819077
+Accel 0 util: 81.0405266204
+Accel 0 util: 81.4245054166
+Accel 0 util: 81.421281655
+Accel 0 util: 81.2701553119
+Accel 0 util: 81.4175899663
+Accel 0 util: 81.0689890927
+Accel 0 util: 81.2869017311
+Accel 0 util: 81.4348102162
+Accel 0 util: 81.4009054387
+Accel 0 util: 81.2721683923
+Accel 0 util: 81.2816415792
+Accel 0 util: 81.1663365564
+Accel 0 util: 81.2705181372
+Accel 0 util: 81.1538464307
+Accel 0 util: 81.5020981241
+Accel 0 util: 81.4286596916
+Accel 0 util: 81.4354975744
+Accel 0 util: 81.4150235044
+Accel 0 util: 81.2851474413
+Accel 0 util: 81.4184191206
+Accel 0 util: 81.2971043504
+Accel 0 util: 81.4275163496
+Accel 0 util: 81.2906872563
+Accel 0 util: 81.2492483871
+Accel 0 util: 81.4713296166
+Accel 0 util: 81.5049098327
+Accel 0 util: 81.433275792
+Accel 0 util: 81.4422086113
+Accel 0 util: 81.4495785398
+Accel 0 util: 81.4745902082
+Accel 0 util: 81.284672745
+Accel 0 util: 81.5124919594
+Accel 0 util: 81.4071088975
+Accel 0 util: 81.4686518421
+Accel 0 util: 81.2841069199
+Accel 0 util: 81.5022795858
+Accel 0 util: 81.4741009858
+Accel 0 util: 81.4886729426
+Accel 0 util: 81.4736288153
+Accel 0 util: 81.5445237169
+Accel 0 util: 81.4323252478
+Accel 0 util: 81.5298132463
+Accel 0 util: 81.4016564967
+Accel 0 util: 81.6179822238
+Accel 0 util: 81.4976231646
+('****Total experiment time (s): ', 41.50722908973694)
+('****Infer mean time (s): ', 0.22289712639013673)
+('****Infer tail time (s): ', 0.22289712639013673)
+('****Total mean time (s): ', 0.22343671181201935)
+('****Total tail time (s): ', 0.22434210777282715)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [10240])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+Using CPU...
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Launched inference engine 0/0
+Launched inference engine 0/1
+Launched inference engine 0/2
+Launched inference engine 0/3
+Launched inference engine 0/4
+Launched inference engine 0/5
+Launched inference engine 0/6
+Launched inference engine 0/7
+Launched inference engine 0/8
+Launched inference engine 0/9
+Launched inference engine 0/10
+Launched inference engine 0/11
+Launched inference engine 0/12
+Launched inference engine 0/13
+Launched inference engine 0/14
+Launched inference engine 0/15
+Launched inference engine 0/16
+Launched inference engine 0/17
+Launched inference engine 0/18
+Launched inference engine 0/19
+Launched inference engine 0/20
+Launched inference engine 0/21
+Launched inference engine 0/22
+Launched inference engine 0/23
+Launched inference engine 0/24
+Launched inference engine 0/25
+Launched inference engine 0/26
+Launched inference engine 0/27
+Launched inference engine 0/28
+Launched inference engine 0/29
+Launched inference engine 0/30
+Launched inference engine 0/31
+Launched inference engine 0/32
+Launched inference engine 0/33
+Launched inference engine 0/34
+Launched inference engine 0/35
+Launched inference engine 0/36
+Launched inference engine 0/37
+Launched inference engine 0/38
+Launched inference engine 0/39
+Launched inference engine 0/40
+Launched inference engine 0/41
+Launched inference engine 0/42
+Launched inference engine 0/43
+Launched inference engine 0/44
+Launched inference engine 0/45
+Launched inference engine 0/46
+Launched inference engine 0/47
+Launched inference engine 0/48
+Launched inference engine 0/49
+Launched inference engine 0/50
+Launched inference engine 0/51
+Launched inference engine 0/52
+Launched inference engine 0/53
+Launched inference engine 0/54
+Launched inference engine 0/55
+Launched inference engine 0/56
+Launched inference engine 0/57
+Launched inference engine 0/58
+Launched inference engine 0/59
+Launched inference engine 0/60
+Launched inference engine 0/61
+Launched inference engine 0/62
+Launched inference engine 0/63
+===================================================
+****Epoch  0
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+Reading pre-processed data=/data/rec/criteo_artifact///kaggleAdDisplayChallenge_processed.npz
+Sparse fea = 26, Dense fea = 13
+Length of ids is:  100000
+Defined test indices...
+Randomized indices across days ...
+Handling test data
+Split data according to indices...
+Created dataset
+****Total experiment time (s):  44.6500298977
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.81446814537048)
+('****Infer mean time (s): ', 0.26583399139013675)
+('****Infer tail time (s): ', 0.2658339913901367)
+('****Total mean time (s): ', 15.727384942436219)
+('****Total tail time (s): ', 29.713604843616487)
+('****Arrival rate: ', 1)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+('****Total experiment time (s): ', 41.823904037475586)
+('****Infer mean time (s): ', 0.26583399139013675)
+('****Infer tail time (s): ', 0.2658339913901367)
+('****Total mean time (s): ', 10.428342405200004)
+('****Total tail time (s): ', 19.612913060188294)
+('****Arrival rate: ', 2)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+===================================================
+('****Epoch ', 0)
+Accel 0 util: 92.3413637177
+Accel 0 util: 92.3387880717
+Accel 0 util: 92.3311262038
+Accel 0 util: 92.3402976183
+Accel 0 util: 92.3458998687
+Accel 0 util: 92.3501166974
+Accel 0 util: 92.3675739845
+Accel 0 util: 92.3567783771
+Accel 0 util: 92.352439331
+Accel 0 util: 92.3712906972
+Accel 0 util: 92.3717370921
+Accel 0 util: 92.3799021896
+Accel 0 util: 92.3908773729
+Accel 0 util: 92.3905519458
+Accel 0 util: 92.4198112782
+Accel 0 util: 92.386472494
+Accel 0 util: 92.4340714903
+Accel 0 util: 92.387926569
+Accel 0 util: 92.4311760273
+Accel 0 util: 92.434098061
+Accel 0 util: 92.439103424
+Accel 0 util: 92.4479726189
+Accel 0 util: 92.4490357291
+Accel 0 util: 92.4605660042
+Accel 0 util: 92.4554684198
+Accel 0 util: 92.4644437737
+Accel 0 util: 92.4708656199
+Accel 0 util: 92.4649245371
+Accel 0 util: 92.4653611469
+Accel 0 util: 92.4697394925
+Accel 0 util: 92.6505484989
+Accel 0 util: 92.6574525914
+Accel 0 util: 92.4716784093
+Accel 0 util: 92.6660641931
+Accel 0 util: 92.6763078007
+Accel 0 util: 92.6902275769
+Accel 0 util: 92.6794844522
+Accel 0 util: 92.4581528926
+Accel 0 util: 92.6561190685
+Accel 0 util: 92.6754179038
+Accel 0 util: 92.6579727295
+Accel 0 util: 92.6776903167
+Accel 0 util: 92.6813749915
+Accel 0 util: 92.6835566611
+Accel 0 util: 92.67210311
+Accel 0 util: 92.6742513779
+Accel 0 util: 92.660682612
+Accel 0 util: 92.6512464335
+Accel 0 util: 92.6563460535
+Accel 0 util: 92.6514661256
+Accel 0 util: 92.6611628144
+Accel 0 util: 92.6613339001
+Accel 0 util: 92.6656348955
+Accel 0 util: 92.67562
+Accel 0 util: 92.6878320162
+Accel 0 util: 92.6883277196
+Accel 0 util: 92.6960689055
+Accel 0 util: 92.701413186
+Accel 0 util: 92.698849853
+Accel 0 util: 92.6632555923
+Accel 0 util: 92.7096097087
+Accel 0 util: 92.7224357881
+Accel 0 util: 92.7163387209
+Accel 0 util: 92.7251114332
+Thu Jul 29 02:36:19 UTC 2021
+('****Total experiment time (s): ', 41.85879397392273)
+('****Infer mean time (s): ', 0.26583399139013675)
+('****Infer tail time (s): ', 0.2658339913901367)
+('****Total mean time (s): ', 0.47963876662254334)
+('****Total tail time (s): ', 0.5865231513977051)
+('****Arrival rate: ', 4)
+('****model config: ', u'configs/model_configs/dim_32_0.json')
+('****batch_size: ', [12288])
+('****accel config: ', ['configs/accel_configs/hardconf_64.json'])
+('****accel counts: ', [64])
+===================================================
+Thu Jul 29 02:36:19 UTC 2021

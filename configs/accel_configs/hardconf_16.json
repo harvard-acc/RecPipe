@@ -1,0 +1,18 @@
+{
+  "clock"                   : 8,
+  "dram_latency"            : 100,
+  "flash_latency"           : 20000,
+  "dram_bandwidth"          : 2,
+  "flash_bandwidth"         : 0.1,
+  "dram_capacity"           : 32,
+  "flash_capacity"          : 256,
+  "l1_cache_capacity"       : 1000000,
+  "weight_sram_latency"     : 1,
+  "weight_sram_size"        : 1000000,
+  "output_sram_latency"     : 1,
+  "output_sram_size"        : 100,
+  "pe_count"                : 1,
+  "arraysize"               : 32
+}
+
+
